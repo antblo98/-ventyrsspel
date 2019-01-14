@@ -1,0 +1,232 @@
+#ROOM_BEGIN
+id: 1
+brief: 25/11   ***Outside the locker room part 1:***
+full: You have finally dried your long luxiorious hair and you're making your way out of the locker room when you stumble upon three girls. You remember their name from before. Yuri, Sayuri ... was it Haru?
+item: pistol
+item: book
+item: flextape
+exit: n 2
+#ROOM_END
+
+
+#ROOM_BEGIN
+id: 2
+brief: ***Sicko mode activate***
+full: The girls split up and each one of them goes their own way, probably to attend to their respective classes. You choose to follow one of them.
+exit: n 3
+exit: h 4
+exit: s 5
+exit: y 6
+#ROOM_END
+
+
+#ROOM_BEGIN
+id: 3
+brief: ***Home***
+full: You contemplate about your decision of not following one of the girls and you are starting to feel sad.
+item: sadness
+exit: n 7
+#ROOM_END
+
+#ROOM_BEGIN
+id: 4
+brief: ***Scar***
+full: You look through the steamy window to see Haru in an appron... cooking? Is this home-ed? It sure looks like it! Haru drops one of her oven-mits and you flench. Her hand has a major scar???
+item: knowledge
+exit: n 7
+#ROOM_END
+
+#ROOM_BEGIN
+id: 5
+brief: ***Sayuri's mischief***
+full: You see Sayuri at karate class, the karateers notice you and charge towards you, barelling in high speed. You try to fend them off but their fingers grab and tickle you everywhere.
+item: pee
+exit: n 7
+#ROOM_END
+
+#ROOM_BEGIN
+id: 6
+brief: ***Math's class***
+full: As you look through the dirty keyhole into the classroom, you see Yuri raising her slender hand, ready to answer any query given to her. You rest your back on the door and at the same moment you hear a creack you realise that the door isn't closed and you fall into the room.
+item: vasectomi
+exit: n 7
+#ROOM_END
+
+
+#ROOM_BEGIN
+id: 7
+brief: ***Proposal***
+full: As you are walking home from an exhausting day at school you can't but help to think about the girls. Deep in thought you notice something in the corner of your eye, a flash of light?? You look around you until you finally look underneath you and there seem to be an object, apparantly out of place. What is it? You take the weird looking item. 
+item: genie
+exit: t 8
+#ROOM_END
+
+#ROOM_BEGIN
+id: 8
+brief: 26/11 ***Morning***
+full: You wake up the next day tired af, you've binge watched "insert users favorite show". You're having your regular breakfast consisting of eggs and kalles kaviar.
+exit: n 9
+exit: t 21
+#ROOM_END
+
+#ROOM_BEGIN
+id: 9
+brief: ***School***
+full: You have a Math's class, Sex-ed and Spanish. You walk by the girls and none of them seem to notice you in the hall.
+exit: n 10
+exit: t 21
+#ROOM_END
+
+#ROOM_BEGIN
+id: 10
+brief: ***Walking home***
+full: You stumble on a rock, which is weird considering that you are often very careful with your white J's. You seem distraught. You can't believe nothing exciting has happened all day, if only you had something, anything that could make this day just a little more bearable.
+item: bored
+exit: n 11
+exit: t 21
+#ROOM_END
+
+#ROOM_BEGIN
+id: 11
+brief: 27/11 ***Morning***
+full: You're having your regular breakfast consisting of jamon y queso.
+exit: n 12
+exit: t 21
+#ROOM_END
+
+#ROOM_BEGIN
+id: 12
+brief: ***School***
+full: You have a karate class, Sex-ed and programing today. You walk by the girls and none of them seem to notice you in the hall.
+exit: n 13
+exit: t 21
+#ROOM_END
+
+#ROOM_BEGIN
+id: 13
+brief: ***Walking home***
+full: You stumble on a dead rabbit, which is weird considering that you are often very careful with your white J's. You seem distraught. You can't believe nothing exciting has happened all day, if only you had something, anything that could make this day just a little more bearable.
+item: bored
+exit: n 14
+exit: t 21
+#ROOM_END
+
+#ROOM_BEGIN
+id: 14
+brief: ???/11 ***Morning***
+full: You're having your regular breakfast consisting of something.
+exit: n 15
+exit: t 21
+#ROOM_END
+
+#ROOM_BEGIN
+id: 15
+brief: ***School***
+full: You have a Sex-ed class. You walk by the girls and none of them seem to notice you in the hall.
+exit: n 16
+exit: t 21
+#ROOM_END
+
+#ROOM_BEGIN
+id: 16
+brief: ***Walking home***
+full: You stumble on a dead body, which is weird considering that you are often very careful with your white J's. You seem distraught. You can't believe nothing exciting has happened all day, if only you had something, anything that could make this day just a little more bearable.
+item: bored
+exit: n 17
+exit: t 21
+#ROOM_END
+
+#ROOM_BEGIN
+id: 17
+brief: ???/11 ***Morning***
+full: You're having your regular breakfast consisting of ???.
+exit: n 18
+exit: t 21 
+#ROOM_END
+
+#ROOM_BEGIN
+id: 18
+brief: ***School***
+full: You have a ??? ??? ??? today. You walk by the girls and none of them seem to notice you in the hall.
+exit: n 19
+exit: t 21
+#ROOM_END
+
+#ROOM_BEGIN
+id: 19
+brief: ***Walking home***
+full: You stumble on a ???, which is weird ???? ???  ????  ?? ? ????? ?? ? ?? ? ??? you seem distraught... if only you had something.
+item: bored
+exit: n 20
+exit: t 21
+#ROOM_END
+
+#ROOM_BEGIN
+id: 20
+brief: ***good job***
+full: You hear a sound from what seems to be a talking mushroom, it says that you should look at your inventory and use items and learn how to play the game.
+exit: t 21
+#ROOM_END
+
+#ROOM_BEGIN
+id: 21
+brief: ***GENIE WOOO***
+full: You feel a gust, that smells a little weird, like it has been trapped in a confined space for a lot a lot of decades. Dank space, probably moldy. The gust says that it's name is Akbar. And is ready to free you from your boring prison.
+exit: n 22
+#ROOM_END
+
+#ROOM_BEGIN
+id: 22
+brief: ***NEW WORLD***
+full: THE WORLD OF AVALON. Your smelly ass seems to have been teleported to some place. You see a cave and a sign outside the cave. Is this the beginning of your own dungeon crawler???
+exit: n 23
+#ROOM_END
+
+#ROOM_BEGIN
+id: 23
+brief: ***THE WORLD OF AVALON***
+full: You enter the cave in full force! Finally an adventure! Once inside the damp cave you can here a loud roar! You seem less excited now but still tremble forward... 
+exit: n 24
+#ROOM_END
+
+#ROOM_BEGIN
+id: 24
+brief: ***Inside the cave***
+full: As you move forward in the cave you feel a crackling sensation underneath you. You look down and immediately you are greeted with a smile. A smile? It's an almost rotten to the bone skull but you can stil see the faintest of Mona Lisa smile on his face. You think it's weird that it is kinda smiling, because he died, and the smell is awful. Not only because of the rotten flesh but you can feel an even stronger odor somewhere. You lick your finger, point upwards and can feel it coming from west. But you also see a door north bound.
+exit: w1 25
+exit: n1 26
+#ROOM_END
+
+
+#ROOM_BEGIN
+id: 25
+brief: ***Big Green***
+full: Odor, more like ogre. You stare at the beauty infront of you and you are completely erect. You stand very erect so to say.
+exit: n 27
+#ROOM_END
+
+#ROOM_BEGIN
+id: 26
+brief: ***Armory***
+full: You walk over to the door slowly and carfully open it. It's an armory! You see tons of swords hanging on the wall. You lay your eyes on a Diamond sword! It reaks of Jerry, this might be his legendary sword I've heard storys about... It might be good having a sword while traveling trough the dungoen.
+item: sword
+exit: b 24
+#ROOM_END
+
+#ROOM_BEGIN
+id: 27
+brief: ***Big Green turns angry***
+full: The wonderful creature smile turns in to a smirk.. you hear a whisper "I am love, I am life". You look confusing at the green monster infront of you. "Get out of my swamp" the big green monster says. You become even more confused, we are not in a swamp you think to yourself. The monster stares right into your eyes and starts singing while charging at you. *Hey now, you're an all-star, get your game on, go play WITH ME* You need to act rapido and protect yourself.
+exit: n 28
+#ROOM_END
+
+#ROOM_BEGIN
+id: 28
+brief: ***The final countdown***
+full: Ar uz stoopid? Yu Elon ->Must<- make a choice sonic! He is chargin right at yu. Or were you stupid enogh not to pik up any usefull items? in that case, well... have fun and enjoj dis well speld sentcne fam. 
+exit: b 27
+#ROOM_END
+
+
+
+
